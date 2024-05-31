@@ -25,6 +25,8 @@ This project uses an ESP8266 to connect to a Wi-Fi network and indicates the sig
 - **LED3** connected to pin D3
 - Common ground for all LEDs
 
+![Circuit Diagram](./8266_WiFi_Signal_Strength_Detector.BMP)
+
 ## Wiring
 
 1. **Connect the LEDs**:
